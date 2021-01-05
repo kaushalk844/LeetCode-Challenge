@@ -1,2 +1,5 @@
-# leetcode
-Leetcode Monthly Challenges 
+#leetcode
+
+Leetcode Monthly Challenges:
+
+[January Challenge](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/)
