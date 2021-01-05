@@ -1,4 +1,4 @@
-#leetcode
+# LeetCode
 
 Leetcode Monthly Challenges:
 
