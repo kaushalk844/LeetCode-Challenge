@@ -14,7 +14,6 @@ public:
                 count=(count*2)%mod;
                 N/=2;
              }
-        }
-        return res;
+        } return res;
     }
 };
